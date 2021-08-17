@@ -36,6 +36,10 @@ Also I have a [portfolio](https://erlemar.github.io/) listing some of my project
 
 
 ### My Github and StackOverflow stats
-[![andrey-lukyanenko StackOverflow](https://github-readme-stackoverflow.vercel.app/?userID=6797250)](https://stackoverflow.com/users/6797250/andrey-lukyanenko) [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=erlemar)](https://github.com/AlgoAIBoss)
+[![andrey-lukyanenko StackOverflow](https://github-readme-stackoverflow.vercel.app/?userID=6797250)](https://stackoverflow.com/users/6797250/andrey-lukyanenko) 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AlgoAIBoss)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AlgoAIBoss&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+
 
 
