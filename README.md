@@ -16,11 +16,11 @@ Here are some ideas to get you started:
 
 
 ### Hello, I'm Abbos 👋
-[![Twitter Follow](https://img.shields.io/twitter/follow/andlukyane?label=Follow)](https://twitter.com/andlukyane)
+[![Twitter Follow](https://img.shields.io/twitter/follow/andlukyane?label=Follow)](https://twitter.com/Boss92777423)
 [![Linkedin: abbosjon](https://img.shields.io/badge/-Abbosjon%20Madiev-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/abbosjon-madiev-787173196/)](https://www.linkedin.com/in/abbosjon-madiev-787173196/)
-[![Medium Badge](https://img.shields.io/badge/-artgor-000000?style=flat&labelColor=000000&logo=Medium&link=https://medium.com/@artgor)](https://medium.com/@artgor)
+[![Medium Badge](https://img.shields.io/badge/-Abboss-000000?style=flat&labelColor=000000&logo=Medium&link=https://medium.com/@madiev.abboss)](https://medium.com/@madiev.abboss)
 [![Habr Badge](https://img.shields.io/badge/-artgor-47CCCC?style=flat&logo=habr&logoColor=white&link=https://habr.com/ru/users/artgor/)](https://habr.com/ru/users/artgor/)
-[![Kaggle Badge](https://img.shields.io/badge/-artgor-teal?style=flat&logo=kaggle&logoColor=deepblue&link=https://www.kaggle.com/artgor)](https://www.kaggle.com/artgor)
+[![Kaggle Badge](https://img.shields.io/badge/-AIBoss-teal?style=flat&logo=kaggle&logoColor=deepblue&link=https://www.kaggle.com/abbosjon)](https://www.kaggle.com/abbosjon)
 [![Ods.ai Badge](https://img.shields.io/badge/-artgor-white?style=flat&logo=odsai&logoColor=crimson&link=hhttps://ods.ai/users/b5a93767c637)](https://ods.ai/users/b5a93767c637)
 ![Profile views](https://gpvc.arturio.dev/Erlemar)
 
