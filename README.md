@@ -18,7 +18,8 @@
 - 💬 Ask me about - _Topics related to ML/AI_ 
 - 📫 How to reach me: [here](https://andlukyane.com/)
 - ⚡ Top facts: Deciplined, Frugal, Easigoing
-I have a full personal website now! You can find it [here](https://andlukyane.com/)
+
+I have a full personal website now! You can find it [here](https://algoaiboss.github.io/myportfolio/)
 
 I'm economist by education and usually try to understand why things happen.
 
