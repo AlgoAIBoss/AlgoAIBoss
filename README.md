@@ -4,7 +4,7 @@
 [![Linkedin: abbosjon](https://img.shields.io/badge/-Abbosjon%20Madiev-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/abbosjon-madiev-787173196/)](https://www.linkedin.com/in/abbosjon-madiev-787173196/)
 [![Medium Badge](https://img.shields.io/badge/-Abboss-000000?style=flat&labelColor=000000&logo=Medium&link=https://medium.com/@madiev.abboss)](https://medium.com/@madiev.abboss)
 [![Kaggle Badge](https://img.shields.io/badge/-AIBoss-teal?style=flat&logo=kaggle&logoColor=deepblue&link=https://www.kaggle.com/abbosjon)](https://www.kaggle.com/abbosjon)
-![Protfolio](https://gpvc.arturio.dev/Erlemar)
+![Protfolio](https://algoaiboss.github.io/myportfolio/)
 
 <!-- [![Habr Badge](https://img.shields.io/badge/-artgor-47CCCC?style=flat&logo=habr&logoColor=white&link=https://habr.com/ru/users/artgor/)](https://habr.com/ru/users/artgor/) -->
 <!-- [![Ods.ai Badge](https://img.shields.io/badge/-artgor-white?style=flat&logo=odsai&logoColor=crimson&link=hhttps://ods.ai/users/b5a93767c637)](https://ods.ai/users/b5a93767c637) -->
