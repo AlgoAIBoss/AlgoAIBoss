@@ -16,7 +16,7 @@
 - 🤔 I’m looking for help with - _Finding a job in ML engineering position_ 
 - 💬 Ask me about - _Topics related to ML/AI_ 
 - 📫 How to reach me: [here](https://andlukyane.com/)
-- ⚡ Top facts: Deciplined, Frugal, Easigoing
+- ⚡ Top facts: Disciplined, Frugal, Easigoing.
 
 I have a full personal website now! You can find it [here](https://algoaiboss.github.io/myportfolio/)
 
