@@ -1,7 +1,7 @@
 ### Hello, I'm Abbos 👋 ✨ _Machine Learning Engineer_ ✨ 
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/andlukyane?label=Follow)](https://twitter.com/Boss92777423)
-[![Linkedin: abbosjon](https://img.shields.io/badge/-Abbosjon%20Madiev-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/abbosjon-madiev-787173196/)](https://www.linkedin.com/in/abbosjon-madiev-787173196/)
+[![Linkedin: abbosjon](https://img.shields.io/badge/-Abbosjon%20Madiev-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https:https://www.linkedin.com/in/aiboss/)](https://www.linkedin.com/in/aiboss/)
 [![Medium Badge](https://img.shields.io/badge/-Abboss-000000?style=flat&labelColor=000000&logo=Medium&link=https://medium.com/@madiev.abboss)](https://medium.com/@madiev.abboss)
 [![Kaggle Badge](https://img.shields.io/badge/-AIBoss-teal?style=flat&logo=kaggle&logoColor=deepblue&link=https://www.kaggle.com/abbosjon)](https://www.kaggle.com/abbosjon)
 
