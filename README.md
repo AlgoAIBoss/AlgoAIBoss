@@ -1,4 +1,4 @@
-### Hello, I'm Abbos 👋 ✨ _Machine Learning Engineer_ ✨ 
+### Hello, I'm Abbos 👋 ✨ _Machine Learning Engineer_ ✨ ( ͡~ ͜ʖ ͡°)
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/andlukyane?label=Follow)](https://twitter.com/Boss92777423)
 [![Linkedin: abbosjon](https://img.shields.io/badge/-Abbosjon%20Madiev-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https:https://www.linkedin.com/in/aiboss/)](https://www.linkedin.com/in/aiboss/)
